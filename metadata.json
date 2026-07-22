@@ -1,8 +1,0 @@
-{
-  "name": "Fletes y Mudanzas La Cañada",
-  "description": "Servicio premium de fletes y mudanzas desde Córdoba Capital a todo el país. Rápido, seguro y al mejor precio con presupuesto sin cargo.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
